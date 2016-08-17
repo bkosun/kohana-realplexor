@@ -1,0 +1,3 @@
+[submodule "vendor/dklab_realplexor"]
+	path = vendor/dklab_realplexor
+	url = https://github.com/DmitryKoterov/dklab_realplexor.git
